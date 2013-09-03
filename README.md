@@ -4,7 +4,7 @@ chat_server
 Build:
 
 ~~~bash
-$ make
+$ make compile
 ~~~
 
 Setup 3 node cluster:
